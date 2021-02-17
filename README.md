@@ -1,5 +1,5 @@
 # Kaveh Zamani
 
-Linkedin: https://www.linkedin.com/in/kavehmz/
+[Linkedin](https://www.linkedin.com/in/kavehmz/)
 
-Github: https://github.com/kavehmz
+[Github](https://github.com/kavehmz)
